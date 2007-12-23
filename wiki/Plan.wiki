@@ -17,3 +17,4 @@ TODO:
 
 == M2 ==
   * Size distribution and total for all/label/sender/recipient/list id
+  * X-mailer distribution
