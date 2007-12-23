@@ -14,3 +14,6 @@ TODO:
   * Render table with top senders for all mail and per label
   * Render table with top recipients for all mail and per label
   * Render table with top list-ids's for all mail and per label
+
+== M2 ==
+  * Size distribution and total for all/label/sender/recipient/list id
