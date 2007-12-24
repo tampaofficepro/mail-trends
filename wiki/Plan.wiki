@@ -4,11 +4,14 @@
 
 == M0 ==
 TODO:
-  * Fetch mail headers for all mail
   * Fetch labels for all mail
+  * Record/replay support for FETCH to speed up development
   * Render chart with messages per month/week/day for all mail and per label
   * Render chart with messages by time of day for all mail and per label
   * Render chart with messages by day of week for all mail and per label
+
+DONE
+  * Fetch mail headers for all mail
 
 == M1 ==
   * Render table with top senders for all mail and per label
@@ -18,3 +21,7 @@ TODO:
 == M2 ==
   * Size distribution and total for all/label/sender/recipient/list id
   * X-mailer distribution
+  * Construct threads from in-reply-to
+  * thread length stats
+  * thread sender stats
+  * thread recipient stats
