@@ -7,12 +7,12 @@ TODO:
   * Render chart with messages per month/week/day for all mail and per label
   * Render chart with messages by time of day for all mail and per label
   * Render chart with messages by day of week for all mail and per label
-  * Optimize StringScanner to reduce number of string copies
 
 DONE
   * Fetch mail headers for all mail
   * Fetch labels for all mail
   * Record/replay support for FETCH to speed up development
+  * Optimize StringScanner
 
 == M1 ==
   * Render table with top senders for all mail and per label
