@@ -5,12 +5,16 @@
 == In Progress ==
 
 === M1 ===
+
+TODO
+  * Table with top senders (messages and bytes)
+  * Table with top recipients (messages and bytes)
+  * Table with top list-ids's (messages and bytes)
+  * Table with top messages by size
+  * Size distribution
+
+DONE
   * Title with total counts, date range
-  * Split out sent mail
-  * Table with top senders
-  * Table with top recipients
-  * Table with top list-ids's
-  * Break down by all mail vs. label
 
 == Upcoming ==
 
@@ -21,6 +25,8 @@
   * thread length stats
   * thread sender stats
   * thread recipient stats
+  * Split out sent mail
+  * Break down by all mail vs. label
 
 == Done ==
 
