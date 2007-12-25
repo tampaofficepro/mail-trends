@@ -15,6 +15,7 @@ DONE
   * Optimize StringScanner
 
 == M1 ==
+  * Split out sent mail
   * Render table with top senders for all mail and per label
   * Render table with top recipients for all mail and per label
   * Render table with top list-ids's for all mail and per label
