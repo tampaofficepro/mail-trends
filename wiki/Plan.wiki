@@ -4,21 +4,25 @@
 
 == M0 ==
 TODO:
-  * Render chart with messages per month/week/day for all mail and per label
-  * Render chart with messages by time of day for all mail and per label
-  * Render chart with messages by day of week for all mail and per label
+  * Chart with messages per day
+  * StatCollection that allows column layout
 
 DONE
   * Fetch mail headers for all mail
   * Fetch labels for all mail
   * Record/replay support for FETCH to speed up development
   * Optimize StringScanner
+  * Chart with messages by day of week
+  * Chart with messages by time of day
+  * Chart with messages per year
+  * Chart with messages per month
 
 == M1 ==
   * Split out sent mail
-  * Render table with top senders for all mail and per label
-  * Render table with top recipients for all mail and per label
-  * Render table with top list-ids's for all mail and per label
+  * Table with top senders
+  * Table with top recipients
+  * Table with top list-ids's
+  * Break down by all mail vs. label
 
 == M2 ==
   * Size distribution and total for all/label/sender/recipient/list id
