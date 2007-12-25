@@ -2,11 +2,29 @@
 
 = Milestones =
 
-== M0 ==
-TODO:
-  * Column layout
+== In Progress ==
 
-DONE
+=== M1 ===
+  * Title with total counts, date range
+  * Split out sent mail
+  * Table with top senders
+  * Table with top recipients
+  * Table with top list-ids's
+  * Break down by all mail vs. label
+
+== Upcoming ==
+
+=== M2 ===
+  * Size distribution and total for all/label/sender/recipient/list id
+  * X-mailer distribution
+  * Construct threads from in-reply-to
+  * thread length stats
+  * thread sender stats
+  * thread recipient stats
+
+== Done ==
+
+=== M0 ===
   * Fetch mail headers for all mail
   * Fetch labels for all mail
   * Record/replay support for FETCH to speed up development
@@ -16,19 +34,4 @@ DONE
   * Chart with messages per year
   * Chart with messages per month
   * Chart with messages per day
-
-== M1 ==
-  * Title with total counts, date range
-  * Split out sent mail
-  * Table with top senders
-  * Table with top recipients
-  * Table with top list-ids's
-  * Break down by all mail vs. label
-
-== M2 ==
-  * Size distribution and total for all/label/sender/recipient/list id
-  * X-mailer distribution
-  * Construct threads from in-reply-to
-  * thread length stats
-  * thread sender stats
-  * thread recipient stats
+  * Column layout
