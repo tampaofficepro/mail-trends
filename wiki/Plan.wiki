@@ -4,8 +4,7 @@
 
 == M0 ==
 TODO:
-  * Chart with messages per day
-  * StatCollection that allows column layout
+  * Column layout
 
 DONE
   * Fetch mail headers for all mail
@@ -16,6 +15,7 @@ DONE
   * Chart with messages by time of day
   * Chart with messages per year
   * Chart with messages per month
+  * Chart with messages per day
 
 == M1 ==
   * Split out sent mail
