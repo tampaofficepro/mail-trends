@@ -18,6 +18,7 @@ DONE
   * Chart with messages per day
 
 == M1 ==
+  * Title with total counts, date range
   * Split out sent mail
   * Table with top senders
   * Table with top recipients
