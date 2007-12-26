@@ -11,10 +11,10 @@ TODO
   * Table with top recipients (messages and bytes)
   * Table with top list-ids's (messages and bytes)
   * Table with top messages by size
-  * Size distribution
 
 DONE
   * Title with total counts, date range
+  * Size distribution
 
 == Upcoming ==
 
