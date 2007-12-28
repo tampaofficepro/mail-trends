@@ -13,6 +13,7 @@ TODO
   * Skip over empty stats in stat collections (e.g. months with no data)
   * Dividers between years in month drop-down
   * Improve SubjectSenderFormatter (max length/clipping, better from name extraction, tooltip with email address w/ JS obfuscation)
+  * Add tabs (date, size, sender, recipient)
 
 DONE
   * Title with total counts, date range
