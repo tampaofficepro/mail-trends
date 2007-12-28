@@ -11,6 +11,8 @@ TODO
   * Table with top recipients (messages and bytes)
   * Table with top list-ids's (messages and bytes)
   * Table with top messages by size
+  * Skip over empty stats in stat collections (e.g. months with no data)
+  * Dividers between years in month drop-down
 
 DONE
   * Title with total counts, date range
