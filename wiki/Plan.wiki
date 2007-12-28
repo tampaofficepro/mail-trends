@@ -10,13 +10,14 @@ TODO
   * Table with top senders (messages and bytes)
   * Table with top recipients (messages and bytes)
   * Table with top list-ids's (messages and bytes)
-  * Table with top messages by size
   * Skip over empty stats in stat collections (e.g. months with no data)
   * Dividers between years in month drop-down
+  * Improve SubjectSenderFormatter (max length/clipping, better from name extraction, tooltip with email address w/ JS obfuscation)
 
 DONE
   * Title with total counts, date range
   * Size distribution
+  * Table with top messages by size
 
 == Upcoming ==
 
