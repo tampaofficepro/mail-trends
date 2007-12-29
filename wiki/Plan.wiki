@@ -12,13 +12,13 @@ TODO
   * Table with top list-ids's (messages and bytes)
   * Skip over empty stats in stat collections (e.g. months with no data)
   * Dividers between years in month drop-down
-  * Improve SubjectSenderFormatter (max length/clipping, better from name extraction, tooltip with email address w/ JS obfuscation)
   * Add tabs (date, size, sender, recipient)
 
 DONE
   * Title with total counts, date range
   * Size distribution
   * Table with top messages by size
+  * Improve SubjectSenderFormatter (max length/clipping, better from name extraction, tooltip with email address)
 
 == Upcoming ==
 
@@ -31,6 +31,7 @@ DONE
   * thread recipient stats
   * Split out sent mail
   * Break down by all mail vs. label
+  * Add JS obfuscation for printed email addresses
 
 == Done ==
 
