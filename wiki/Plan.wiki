@@ -29,9 +29,13 @@ DONE
   * thread length stats
   * thread sender stats
   * thread recipient stats
-  * Split out sent mail
+  * Split out sent mail, starred, etc.
   * Break down by all mail vs. label
   * Add JS obfuscation for printed email addresses
+
+=== M3 ===
+
+  * Support non-Gmail servers (go through all mailboxes instead of just All Mail)
 
 == Done ==
 
