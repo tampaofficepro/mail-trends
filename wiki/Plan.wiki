@@ -8,7 +8,6 @@
 
 TODO
   * Table with top recipients (messages and bytes)
-  * Skip over empty stats in stat collections (e.g. months with no data)
   * Dividers between years in month drop-down
   * Add tabs (date, size, sender, recipient)
 
@@ -33,6 +32,7 @@ DONE
   * Break down by all mail vs. label
   * Add JS obfuscation for printed email addresses
   * Linkify messages/senders/recipients to searches
+  * Skip over empty stats in stat collections (e.g. months with no data)
 
 === M3 ===
 
