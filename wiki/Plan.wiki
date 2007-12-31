@@ -9,9 +9,9 @@
 TODO
   * Table with top recipients (messages and bytes)
   * Dividers between years in month drop-down
-  * Add tabs (date, size, sender, recipient)
 
 DONE
+  * Add tabs (date, size, sender, recipient)
   * Table with top senders (messages and bytes)
   * Table with top list-ids's (messages and bytes)
   * Title with total counts, date range
