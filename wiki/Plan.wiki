@@ -7,10 +7,10 @@
 === M1 ===
 
 TODO
-  * Table with top recipients (messages and bytes)
   * Dividers between years in month drop-down
 
 DONE
+  * Table with top recipients (messages and bytes)
   * Add tabs (date, size, sender, recipient)
   * Table with top senders (messages and bytes)
   * Table with top list-ids's (messages and bytes)
@@ -22,6 +22,7 @@ DONE
 == Upcoming ==
 
 === M2 ===
+  * Instead of using longest name for an address, use the most common
   * Mailbox size over time
   * Size distribution and total for all/label/sender/recipient/list id
   * X-mailer distribution
