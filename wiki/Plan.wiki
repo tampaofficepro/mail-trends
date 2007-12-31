@@ -22,6 +22,7 @@ DONE
 == Upcoming ==
 
 === M2 ===
+  * Mailbox size over time
   * Size distribution and total for all/label/sender/recipient/list id
   * X-mailer distribution
   * Construct threads from in-reply-to
