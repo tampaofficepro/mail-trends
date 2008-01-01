@@ -4,41 +4,24 @@
 
 == In Progress ==
 
-=== M1 ===
-
-TODO
-  * Dividers between years in month drop-down
-
-DONE
-  * Table with top recipients (messages and bytes)
-  * Add tabs (date, size, sender, recipient)
-  * Table with top senders (messages and bytes)
-  * Table with top list-ids's (messages and bytes)
-  * Title with total counts, date range
-  * Size distribution
-  * Table with top messages by size
-  * Improve SubjectSenderFormatter (max length/clipping, better from name extraction, tooltip with email address)
-
-== Upcoming ==
-
 === M2 ===
   * Instead of using longest name for an address, use the most common
   * Mailbox size over time
-  * Size distribution and total for all/label/sender/recipient/list id
-  * X-mailer distribution
   * Construct threads from in-reply-to
   * thread length stats
   * thread sender stats
   * thread recipient stats
-  * Split out sent mail, starred, etc.
-  * Break down by all mail vs. label
-  * Add JS obfuscation for printed email addresses
   * Linkify messages/senders/recipients to searches
-  * Skip over empty stats in stat collections (e.g. months with no data)
+
+== Upcoming ==
 
 === M3 ===
 
   * Support non-Gmail servers (go through all mailboxes instead of just All Mail)
+  * Split out sent mail, starred, etc.
+  * Break down by all mail vs. label
+  * Add JS obfuscation for printed email addresses
+  * X-mailer distribution
 
 == Done ==
 
@@ -53,3 +36,15 @@ DONE
   * Chart with messages per month
   * Chart with messages per day
   * Column layout
+
+=== M1 ===
+  * Table with top recipients (messages and bytes)
+  * Add tabs (date, size, sender, recipient)
+  * Table with top senders (messages and bytes)
+  * Table with top list-ids's (messages and bytes)
+  * Title with total counts, date range
+  * Size distribution
+  * Table with top messages by size
+  * Improve SubjectSenderFormatter (max length/clipping, better from name extraction, tooltip with email address)
+  * Dividers between years in month drop-down
+  * Skip over empty stats in stat collections (e.g. months with no data)
