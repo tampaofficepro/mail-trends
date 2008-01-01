@@ -30,6 +30,7 @@ DONE
 == Done ==
 
 === M0 ===
+_Finished on 12/25/2007_
   * Fetch mail headers for all mail
   * Fetch labels for all mail
   * Record/replay support for FETCH to speed up development
@@ -42,6 +43,7 @@ DONE
   * Column layout
 
 === M1 ===
+_Finished on 1/1/2008_
   * Table with top recipients (messages and bytes)
   * Add tabs (date, size, sender, recipient)
   * Table with top senders (messages and bytes)
