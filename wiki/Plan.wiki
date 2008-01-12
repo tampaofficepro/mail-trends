@@ -13,6 +13,7 @@ TODO
   * thread sender stats
   * thread recipient stats
   * Linkify messages/senders/recipients to searches
+  * Normalize +addresses
 
 DONE
   * Instead of using longest name for an address, use the most common
