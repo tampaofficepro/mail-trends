@@ -7,8 +7,6 @@
 === M2 ===
 
 TODO
-  * Mailbox size over time
-  * Construct threads from in-reply-to
   * Thread list stats
   * Linkify messages/senders/recipients to searches
   * Normalize +addresses
@@ -18,11 +16,13 @@ DONE
   * Instead of using longest name for an address, use the most common
   * Thread length stats
   * Thread sender stats
+  * Construct threads from in-reply-to
 
 == Upcoming ==
 
 === M3 ===
 
+  * Mailbox size over time
   * Support non-Gmail servers (go through all mailboxes instead of just All Mail)
   * Split out sent mail, starred, etc.
   * Break down by all mail vs. label
