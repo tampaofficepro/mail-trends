@@ -9,7 +9,6 @@
 TODO
   * Mailbox size over time
   * Construct threads from in-reply-to
-  * thread length stats
   * thread sender stats
   * thread recipient stats
   * Linkify messages/senders/recipients to searches
@@ -17,6 +16,7 @@ TODO
 
 DONE
   * Instead of using longest name for an address, use the most common
+  * thread length stats
 
 == Upcoming ==
 
