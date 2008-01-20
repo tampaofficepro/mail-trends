@@ -8,10 +8,10 @@
 
 TODO
   * Linkify messages/senders/recipients to searches
-  * Normalize +addresses
   * Handle encoded names/subjects
 
 DONE
+  * Normalize +addresses
   * Remove "All Mail" from all stat titles
   * Thread list stats
   * Instead of using longest name for an address, use the most common
