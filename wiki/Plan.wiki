@@ -22,6 +22,8 @@ DONE
 
 === M3 ===
 
+  * Split up stats.py
+  * More comments
   * Mailbox size over time
   * Support non-Gmail servers (go through all mailboxes instead of just All Mail)
   * Split out sent mail, starred, etc.
