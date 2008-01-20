@@ -11,6 +11,7 @@ TODO
   * Linkify messages/senders/recipients to searches
   * Normalize +addresses
   * Handle encoded names/subjects
+  * Remove "All Mail" from all stat titles
 
 DONE
   * Instead of using longest name for an address, use the most common
