@@ -26,6 +26,7 @@ DONE
   * Split up stats.py
   * More comments
   * Getting started doc
+  * Don't thread purely by subject (to handle cron jobs)
 
 === M4 ===
   * Mailbox size over time
