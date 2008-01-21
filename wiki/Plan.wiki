@@ -25,6 +25,9 @@ DONE
 
   * Split up stats.py
   * More comments
+  * Getting started doc
+
+=== M4 ===
   * Mailbox size over time
   * Support non-Gmail servers (go through all mailboxes instead of just All Mail)
   * Split out sent mail, starred, etc.
