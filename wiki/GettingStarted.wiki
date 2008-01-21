@@ -1,2 +1,2 @@
 #summary How to install and run mail-trends
-#labels Phase-Deploy
+#labels Phase-Deploy,Featured
