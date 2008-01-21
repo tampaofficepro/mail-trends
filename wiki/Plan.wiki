@@ -10,10 +10,10 @@
 TODO
   * Split up stats.py
   * More code comments
-  * Getting started doc
   * Don't thread purely by subject (to handle cron jobs)
 
 DONE
+  * Getting started wiki page
   * Better progress in output (when fetching a chunk, say how many are left)  * Link to SVN log feed
 
 == Upcoming ==
