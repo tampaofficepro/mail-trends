@@ -1,4 +1,5 @@
 #summary Development Plan
+#labels Phase-Requirements
 
 = Milestones =
 
@@ -11,14 +12,14 @@ TODO
   * More code comments
   * Getting started doc
   * Don't thread purely by subject (to handle cron jobs)
-  * Better progress in output (when fetching a chunk, say how many are left)
 
 DONE
-  * Link to SVN log feed
+  * Better progress in output (when fetching a chunk, say how many are left)  * Link to SVN log feed
 
 == Upcoming ==
 
 === M4 ===
+  * Tarball for downloads
   * Mailbox size over time
   * Support non-Gmail servers (go through all mailboxes instead of just All Mail)
   * Split out sent mail, starred, etc.
