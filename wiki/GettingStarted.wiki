@@ -1,2 +1,37 @@
 #summary How to install and run mail-trends
 #labels Phase-Deploy,Featured
+
+=Requirements=
+
+  * A Gmail or Google Apps mail account
+  * Python 2.5 or later
+  * A [http://subversion.tigris.org/ Subversion] client
+
+=Installation=
+
+Grab a snapshot of the current version of mail-trends with:
+
+{{{svn checkout http://mail-trends.googlecode.com/svn/trunk/ mail-trends}}}
+
+=Running=
+
+Go into the mail-trends directory:
+
+{{{cd mail-trends}}}
+
+Run the program, replacing the username and passwords as appropriate:
+
+{{{
+./main.py \
+  --server=imap.gmail.com \
+  --use_ssl \
+  --username=username@gmail.com \
+  --password=password \
+  --skip_labels
+}}}
+
+The output is in HTML, placed in {{{out/index.html}}}. Open that in your favorite web browser.
+
+=Other options=
+
+You can pass in {{{--record}}} and {{{--replay}}} as command line arguments to respectively capture and play black message fetches from the IMAP server. This is meant to aid in development by speeding up data fetches.
