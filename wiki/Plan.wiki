@@ -6,11 +6,14 @@
 
 === M3 ===
 
+TODO
   * Split up stats.py
   * More code comments
   * Getting started doc
-  * Link to SVN log feed
   * Don't thread purely by subject (to handle cron jobs)
+
+DONE
+  * Link to SVN log feed
 
 == Upcoming ==
 
