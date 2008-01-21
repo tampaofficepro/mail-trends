@@ -4,29 +4,15 @@
 
 == In Progress ==
 
-=== M2 ===
-
-TODO
-  * Handle encoded names/subjects
-
-DONE
-  * Linkify messages/senders/recipients to searches
-  * Normalize +addresses
-  * Remove "All Mail" from all stat titles
-  * Thread list stats
-  * Instead of using longest name for an address, use the most common
-  * Thread length stats
-  * Thread sender stats
-  * Construct threads from in-reply-to
-
-== Upcoming ==
-
 === M3 ===
 
   * Split up stats.py
-  * More comments
+  * More code comments
   * Getting started doc
+  * Link to SVN log feed
   * Don't thread purely by subject (to handle cron jobs)
+
+== Upcoming ==
 
 === M4 ===
   * Mailbox size over time
@@ -63,3 +49,15 @@ _Finished on 1/1/2008_
   * Improve SubjectSenderFormatter (max length/clipping, better from name extraction, tooltip with email address)
   * Dividers between years in month drop-down
   * Skip over empty stats in stat collections (e.g. months with no data)
+
+=== M2 ===
+_Finished on 1/21/2008_
+  * Handle encoded names/subjects
+  * Linkify messages/senders/recipients to searches
+  * Normalize +addresses
+  * Remove "All Mail" from all stat titles
+  * Thread list stats
+  * Instead of using longest name for an address, use the most common
+  * Thread length stats
+  * Thread sender stats
+  * Construct threads from in-reply-to
