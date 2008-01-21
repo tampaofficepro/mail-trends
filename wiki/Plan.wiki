@@ -7,10 +7,10 @@
 === M2 ===
 
 TODO
-  * Linkify messages/senders/recipients to searches
   * Handle encoded names/subjects
 
 DONE
+  * Linkify messages/senders/recipients to searches
   * Normalize +addresses
   * Remove "All Mail" from all stat titles
   * Thread list stats
