@@ -11,6 +11,7 @@ TODO
   * More code comments
   * Getting started doc
   * Don't thread purely by subject (to handle cron jobs)
+  * Better progress in output (when fetching a chunk, say how many are left)
 
 DONE
   * Link to SVN log feed
