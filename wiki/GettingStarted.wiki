@@ -35,3 +35,5 @@ The output is in HTML, placed in {{{out/index.html}}}. Open that in your favorit
 =Other options=
 
 You can pass in {{{--record}}} and {{{--replay}}} as command line arguments to respectively capture and play black message fetches from the IMAP server. This is meant to aid in development by speeding up data fetches.
+
+{{{--max_messages=NNNN}}} can be used to limit the number of messages that are fetched.
