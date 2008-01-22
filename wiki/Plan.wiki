@@ -11,6 +11,7 @@ TODO
   * Split up stats.py
   * More code comments
   * Don't thread purely by subject (to handle cron jobs)
+  * Cache MessageInfo objects instead of raw IMAP replies, to speed up replay speed
 
 DONE
   * Getting started wiki page
