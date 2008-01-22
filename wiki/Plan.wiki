@@ -11,6 +11,15 @@ TODO
   * Split up stats.py
   * More code comments
   * Cache MessageInfo objects instead of raw IMAP replies, to speed up replay speed
+  * Reduce memory consumption
+  * Allow "me" email addresses to be specified
+  * Table with top email sent to me
+  * Table with top recipients from me
+  * Filled percentage line graph (per year, w/ 52 buckets) of senders to me
+  * Filled graph of senders
+  * Filled graph of recipients from me
+  * Filled graph of recipients
+  * Filled graph of lists
 
 DONE
   * Split up large threads that rely purely on subjects
