@@ -8,6 +8,7 @@
 === M3 ===
 
 TODO
+  * Add support for secure password entry (getpass module)
   * Split up stats.py
   * More code comments
   * Cache MessageInfo objects instead of raw IMAP replies, to speed up replay speed
