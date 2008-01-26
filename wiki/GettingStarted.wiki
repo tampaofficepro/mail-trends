@@ -19,7 +19,7 @@ Go into the mail-trends directory:
 
 {{{cd mail-trends}}}
 
-Run the program, replacing the username and passwords as appropriate:
+Run the program, replacing the username and passwords as appropriate (if you omit the password in the commandline you will be (securely) prompted for it):
 
 {{{
 ./main.py \
