@@ -8,7 +8,6 @@
 === M3 ===
 
 TODO
-  * Add support for secure password entry (getpass module)
   * Split up stats.py
   * More code comments
   * Cache MessageInfo objects instead of raw IMAP replies, to speed up replay speed
@@ -24,6 +23,7 @@ TODO
   * Allow labels/mailboxes to be excluded
 
 DONE
+  * Add support for secure password entry (getpass module)
   * Split up large threads that rely purely on subjects
   * Getting started wiki page
   * Better progress in output (when fetching a chunk, say how many are left)  * Link to SVN log feed
