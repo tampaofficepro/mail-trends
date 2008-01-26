@@ -21,6 +21,7 @@ TODO
   * Filled graph of recipients from me
   * Filled graph of recipients
   * Filled graph of lists
+  * Allow labels/mailboxes to be excluded
 
 DONE
   * Split up large threads that rely purely on subjects
