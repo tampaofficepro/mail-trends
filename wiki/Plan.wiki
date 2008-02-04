@@ -16,12 +16,11 @@ TODO
   * Table with top recipients from me
   * Filled percentage line graph (per year, w/ 52 buckets) of senders to me
   * Filled graph of senders
-  * Filled graph of recipients from me
   * Filled graph of recipients
-  * Filled graph of lists
   * Allow labels/mailboxes to be excluded
 
 DONE
+  * Filled graph of lists
   * Split up stats.py
   * Add support for secure password entry (getpass module)
   * Split up large threads that rely purely on subjects
