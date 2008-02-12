@@ -15,9 +15,9 @@ TODO
   * Table with top email sent to me
   * Table with top recipients from me
   * Filled percentage line graph (per year, w/ 52 buckets) of senders to me
-  * Allow things to be excluded
 
 DONE
+  * Allow things to be excluded
   * Filled graph of senders
   * Filled graph of recipients
   * Filled graph of lists
