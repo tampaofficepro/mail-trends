@@ -36,4 +36,4 @@ The output is in HTML, placed in {{{out/index.html}}}. Open that in your favorit
 
 You can pass in {{{--record}}} and {{{--replay}}} as command line arguments to respectively capture and play black message fetches from the IMAP server. This is meant to aid in development by speeding up data fetches.
 
-{{{--max_messages=NNNN}}} can be used to limit the number of messages that are fetched.
+{{{--max_messages=NNNN}}} can be used to limit the number of messages that are fetched. Normally the most recent messages are selected, use {{{--random_subset}}} to specify that the messages be chosen over all the messages.
