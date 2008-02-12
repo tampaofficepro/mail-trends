@@ -11,11 +11,11 @@ TODO
   * More code comments
   * Cache MessageInfo objects instead of raw IMAP replies, to speed up replay speed
   * Reduce memory consumption
-  * Table with top senders to me
   * Distribution of senders to me
   * Distribution of recipients from me
 
 DONE
+  * Table with top senders to me
   * Table with top recipients from me
   * Allow "me" email addresses to be specified
   * Allow things to be excluded
