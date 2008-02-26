@@ -39,6 +39,7 @@ DONE
   * Break down by all mail vs. label
   * Add JS obfuscation for printed email addresses
   * X-mailer distribution
+  * Attachment extension distribution
 
 == Done ==
 
