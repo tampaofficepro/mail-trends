@@ -5,33 +5,18 @@
 
 == In Progress ==
 
-=== M3 ===
+=== M4 ===
 
 TODO
   * More code comments
   * Cache MessageInfo objects instead of raw IMAP replies, to speed up replay speed
   * Reduce memory consumption
-  * Distribution of senders to me
-  * Distribution of recipients from me
-
-DONE
-  * Table with top senders to me
-  * Table with top recipients from me
-  * Allow "me" email addresses to be specified
-  * Allow things to be excluded
-  * Filled graph of senders
-  * Filled graph of recipients
-  * Filled graph of lists
-  * Split up stats.py
-  * Add support for secure password entry (getpass module)
-  * Split up large threads that rely purely on subjects
-  * Getting started wiki page
-  * Better progress in output (when fetching a chunk, say how many are left)
-  * Link to SVN log feed
+  * Wiki page outlining basic design
+  * Run on Enron corpus and upload results
 
 == Upcoming ==
 
-=== M4 ===
+=== M5 ===
   * Tarball for downloads
   * Mailbox size over time
   * Support non-Gmail servers (go through all mailboxes instead of just All Mail)
@@ -80,3 +65,21 @@ _Finished on 1/21/2008_
   * Thread length stats
   * Thread sender stats
   * Construct threads from in-reply-to
+
+=== M3 ===
+_Finished on 3/16/2008_
+  * Table with top senders to me
+  * Table with top recipients from me
+  * Allow "me" email addresses to be specified
+  * Allow things to be excluded
+  * Filled graph of senders
+  * Filled graph of recipients
+  * Filled graph of lists
+  * Split up stats.py
+  * Add support for secure password entry (getpass module)
+  * Split up large threads that rely purely on subjects
+  * Getting started wiki page
+  * Better progress in output (when fetching a chunk, say how many are left)
+  * Link to SVN log feed
+  * Distribution of senders to me
+  * Distribution of recipients from me
