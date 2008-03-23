@@ -13,6 +13,7 @@ TODO
   * Reduce memory consumption
   * Wiki page outlining basic design
   * Run on Enron corpus and upload results
+DONE
   * Add JS obfuscation for printed email addresses
 
 == Upcoming ==
