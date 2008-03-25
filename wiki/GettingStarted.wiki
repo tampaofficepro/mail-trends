@@ -5,17 +5,16 @@
 
   * A Gmail or Google Apps mail account
   * Python 2.5 or later
-  * A [http://subversion.tigris.org/ Subversion] client
 
 =Installation=
 
-Grab a snapshot of the current version of mail-trends with:
+[http://mail-trends.googlecode.com/files/mail-trends.tar.gz Download] a stable snapshot of the code. Alternatively, if you'd like to get the latest code from Subversion, you can do this with:
 
 {{{svn checkout http://mail-trends.googlecode.com/svn/trunk/ mail-trends}}}
 
 =Running=
 
-Go into the mail-trends directory:
+Go into the {{{mail-trends}}} directory:
 
 {{{cd mail-trends}}}
 
