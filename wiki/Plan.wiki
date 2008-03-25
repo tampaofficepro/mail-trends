@@ -12,15 +12,17 @@ TODO
   * Cache MessageInfo objects instead of raw IMAP replies, to speed up replay speed
   * Reduce memory consumption
   * Wiki page outlining basic design
-  * Run on Enron corpus and upload results
+  * Total unique recipients, senders, lists.
+
 DONE
+  * Run on Enron corpus and upload results
   * Add JS obfuscation for printed email addresses
+  * Tarball for downloads
 
 == Upcoming ==
 
 === M5 ===
   * Top N tables of domains for senders, recipients
-  * Tarball for downloads
   * Mailbox size over time
   * Support non-Gmail servers (go through all mailboxes instead of just All Mail)
   * Split out sent mail, starred, etc.
