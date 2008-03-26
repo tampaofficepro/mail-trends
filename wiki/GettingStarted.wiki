@@ -8,7 +8,7 @@
 
 =Installation=
 
-[http://mail-trends.googlecode.com/files/mail-trends.tar.gz Download] a stable snapshot of the code. Alternatively, if you'd like to get the latest code from Subversion, you can do this with:
+[http://mail-trends.googlecode.com/files/mail-trends-20080326.tar.gz Download] a stable snapshot of the code. Alternatively, if you'd like to get the latest code from Subversion, you can do this with:
 
 {{{svn checkout http://mail-trends.googlecode.com/svn/trunk/ mail-trends}}}
 
