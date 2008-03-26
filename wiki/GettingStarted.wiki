@@ -12,6 +12,8 @@
 
 {{{svn checkout http://mail-trends.googlecode.com/svn/trunk/ mail-trends}}}
 
+You will also need [http://www.cheetahtemplate.org/ Cheetah] (a template system) installed. You can [http://downloads.sourceforge.net/cheetahtemplate/Cheetah-2.0.1.tar.gz?modtime=1195209699&big_mirror=0 download] it and then follow the [http://www.cheetahtemplate.org/docs/users_guide_html_multipage/gettingStarted.install.html installation instructions].
+
 =Running=
 
 Go into the {{{mail-trends}}} directory:
@@ -21,7 +23,7 @@ Go into the {{{mail-trends}}} directory:
 Run the program, replacing the username and passwords as appropriate (if you omit the password in the commandline you will be (securely) prompted for it):
 
 {{{
-./main.py \
+python main.py \
   --server=imap.gmail.com \
   --use_ssl \
   --username=username@gmail.com \
