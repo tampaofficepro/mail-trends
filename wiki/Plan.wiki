@@ -13,6 +13,7 @@ TODO
   * Reduce memory consumption
   * Wiki page outlining basic design
   * Total unique recipients, senders, lists.
+  * Refactor jwzthreading.py to not run into recursion limits
 
 DONE
   * Run on Enron corpus and upload results
