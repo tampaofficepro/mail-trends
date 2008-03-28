@@ -14,6 +14,7 @@ TODO
   * Wiki page outlining basic design
   * Total unique recipients, senders, lists.
   * Refactor jwzthreading.py to not run into recursion limits
+  * Combine recipients/senders based on --me input
 
 DONE
   * Run on Enron corpus and upload results
