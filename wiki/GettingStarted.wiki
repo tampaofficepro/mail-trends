@@ -12,7 +12,7 @@
 
 {{{svn checkout http://mail-trends.googlecode.com/svn/trunk/ mail-trends}}}
 
-You will also need [http://www.cheetahtemplate.org/ Cheetah] (a template system) installed. You can [http://downloads.sourceforge.net/cheetahtemplate/Cheetah-2.0.1.tar.gz?modtime=1195209699&big_mirror=0 download] it and then follow the [http://www.cheetahtemplate.org/docs/users_guide_html_multipage/gettingStarted.install.html installation instructions]. If you are using an apt-based Linux distribution {{{sudo apt-get-install python-cheetah}}} may be enough for you.
+You will also need [http://www.cheetahtemplate.org/ Cheetah] (a template system) installed. You can [http://downloads.sourceforge.net/cheetahtemplate/Cheetah-2.0.1.tar.gz?modtime=1195209699&big_mirror=0 download] it and then follow the [http://www.cheetahtemplate.org/docs/users_guide_html_multipage/gettingStarted.install.html installation instructions]. If you are using an apt-based Linux distribution {{{sudo apt-get install python-cheetah}}} may be enough for you.
 
 =Running=
 
