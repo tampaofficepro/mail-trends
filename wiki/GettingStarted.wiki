@@ -1,2 +1,2 @@
 #labels Phase-Deploy,Featured
-= Migrated to https://github.com/mihaip/mail-trends/wiki/Plan =
+= Migrated to https://github.com/mihaip/mail-trends/wiki/Getting-Started =
